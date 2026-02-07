@@ -7,10 +7,6 @@
 💼 Actively seeking entry-level opportunities 🚀
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
 
 ---
 
