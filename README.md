@@ -34,31 +34,22 @@
 
 ## 🛠️ Skills & Tools
 
-### 🔹 Programming Languages
-Java • C • SQL
+**Languages:** Java • C • SQL  
 
-### 🔹 Frontend Development
-HTML • CSS • JavaScript • Bootstrap • Responsive Web Design
+**Frontend:** HTML • CSS • JavaScript • Bootstrap • Responsive Design  
 
-### 🔹 Backend Development
-Core Java • JSP & Servlets • Spring Framework • Spring Boot  
-REST APIs • JDBC • Hibernate • MVC Architecture
+**Backend:** Core Java • JSP & Servlets • Spring Framework • Spring Boot •  
+REST APIs • JDBC • Hibernate • MVC Architecture  
 
-### 🔹 Database
-MySQL (CRUD operations, joins, queries, schema design)
+**Database:** MySQL (CRUD, Joins, Queries, Schema Design)  
 
-### 🔹 Testing
-Manual Testing • STLC & SDLC • Test Case Writing  
-Defect Tracking • Smoke / Sanity / Regression Testing  
-Selenium (Beginner)
+**Testing:** Manual Testing • STLC & SDLC • Test Cases •  
+Smoke / Sanity / Regression • Selenium (Beginner)  
 
-### 🔹 Tools & Platforms
-Git • GitHub • IntelliJ IDEA • Eclipse • VS Code • MySQL Workbench
+**Tools:** Git • GitHub • IntelliJ IDEA • Eclipse • VS Code • MySQL Workbench  
 
-### 🔹 Methodologies
-Agile (Scrum) • Software Development Life Cycle
+**Methodologies:** Agile (Scrum) • SDLC
 
----
 
 ## 📫 Connect With Me
 📧 **Email:** arjunghadage32@gmail.com  
