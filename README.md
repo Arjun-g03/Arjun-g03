@@ -1,51 +1,71 @@
 # 💫 Hi 👋, I'm Arjun Ghadage
-**Java Full Stack Developer | Software Testing Enthusiast | Fresher from India 🇮🇳**
+**Java Full Stack Developer | B.Tech CSE Graduate | Fresher from India 🇮🇳**
 
-📧 Email Me 👉 ✉️ **arjunghadage32@gmail.com**  
-Open to collaboration, internships, and entry-level opportunities 🚀
+📍 Pune, India  
+📧 Email: ✉️ **arjunghadage32@gmail.com**  
+💼 Actively seeking entry-level opportunities 🚀
 
 ---
 
-- 🔭 **I’m currently working on:**  
-  Java-based projects & a Hospital Doctor Appointment System  
+- 🔭 **Currently working on:**  
+  Full Stack Java applications including a Hospital Doctor Appointment System  
 
-- 🌱 **I’m currently learning:**  
-  Advanced Java, JDBC, Manual Testing, Selenium (Beginner), SQL  
+- 🌱 **Currently learning:**  
+  Advanced Java, Spring Boot, JDBC, REST APIs, Manual Testing, Selenium (Beginner), SQL  
 
-- 👯 **I’m looking to collaborate on:**  
-  Java projects, Web applications, Testing projects  
-
-- 🤔 **I’m looking for help with:**  
-  Improving automation testing & real-world project practices  
-
-- 💬 **Ask me about:**  
-  Core Java, OOPs, JDBC, Manual Testing, HTML, CSS, SQL  
+- 💬 **Skilled in and familiar with:**  
+  Core Java, OOPs, MVC Architecture, JSP & Servlets, HTML, CSS, Bootstrap, JavaScript, MySQL  
 
 - 📫 **How to reach me:**  
   📧 arjunghadage32@gmail.com  
   💼 LinkedIn: https://www.linkedin.com/in/arjun-ghadage-3ab033275/
 
-- 😄 **Pronouns:** He/Him  
+- 😄 **Pronouns:** He / Him  
 
 - ⚡ **Fun fact:**  
-  I enjoy debugging code more than writing it 😄  
+  I enjoy debugging and optimizing code to make applications more reliable 😄  
 
 ---
 
 ## 🛠️ Skills & Tools
-- **Languages:** Java, SQL  
-- **Frontend:** HTML, CSS, Bootstrap  
-- **Backend:** Core Java, JDBC  
-- **Testing:** Manual Testing, Test Case Writing, Defect Tracking  
-- **Tools:** Git, GitHub, Eclipse, VS Code  
-- **Concepts:** OOPs, SDLC, STLC, Agile Basics  
+
+### 🔹 Programming Languages
+- Java, C, SQL  
+
+### 🔹 Frontend Development
+- HTML, CSS, JavaScript  
+- Bootstrap, Responsive Web Design  
+
+### 🔹 Backend Development
+- Core Java  
+- JSP & Servlets  
+- Spring Framework, Spring Boot  
+- REST APIs  
+- JDBC, Hibernate  
+- MVC Architecture  
+
+### 🔹 Database
+- MySQL (CRUD operations, joins, queries)  
+
+### 🔹 Testing
+- Manual Testing  
+- Test Case Design  
+- Defect Tracking  
+- Smoke, Sanity & Regression Testing  
+
+### 🔹 Tools & Platforms
+- Git, GitHub  
+- IntelliJ IDEA, Eclipse  
+- VS Code  
+- MySQL Workbench  
+
+### 🔹 Methodologies
+- Agile (Scrum)  
+- SDLC, STLC  
 
 ---
 
-⭐ *Actively looking for Java Developer / Software Tester (Fresher) roles*
-
-
----
+⭐ *Open to Java Full Stack Developer / Software Developer / Software Tester (Fresher) roles*
 
 ⭐ *Actively looking for Java Full Stack Developer / Software Developer (Fresher) opportunities*
 
