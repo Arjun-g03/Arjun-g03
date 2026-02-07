@@ -1,16 +1,122 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Arjun Ghadage
+**Java Full Stack Developer | B.Tech CSE Graduate | Fresher from India 🇮🇳**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+📍 Pune, India  
+📧 Email: **arjunghadage32@gmail.com**  
+🔗 GitHub: https://github.com/ArjunG01  
+🔗 LinkedIn: https://www.linkedin.com/in/arjun-ghadage-3ab033275/
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+---
+
+## 👨‍💻 Professional Summary
+B.Tech Computer Science graduate (2021–2025) with hands-on experience in **Java, Spring Boot, JSP/Servlets, MySQL, and REST APIs**, along with frontend technologies like **HTML, CSS, Bootstrap, and JavaScript**.  
+Experienced in building full-stack web applications using **MVC architecture**, version control with **Git**, and working in **Agile environments**. Actively seeking opportunities as a **Java Full Stack Developer**.
+
+---
+
+## 🛠️ Technical Skills
+
+### 🔹 Programming Languages
+- Java  
+- C  
+- SQL  
+
+### 🔹 Frontend Development
+- HTML  
+- CSS  
+- JavaScript  
+- Bootstrap  
+- Responsive Web Design  
+
+### 🔹 Backend Development
+- JSP & Servlets  
+- Spring Framework  
+- Spring Boot  
+- REST APIs  
+- JDBC  
+- Hibernate  
+- MVC Architecture  
+
+### 🔹 Database
+- MySQL (CRUD operations, joins, queries, basic optimization)
+
+### 🔹 Tools & Platforms
+- Git & GitHub  
+- IntelliJ IDEA  
+- Eclipse  
+- MySQL Workbench  
+- Canva  
+
+### 🔹 Methodologies
+- Agile (Scrum)  
+- SDLC  
+
+---
+
+## 💼 Work Experience
+
+### Java Full Stack Developer Intern  
+**Cravita Technologies** | Jun 2025 – Dec 2025  
+- Built and enhanced web applications using **Java, Spring Boot, JSP, SQL, and REST APIs**  
+- Worked in an Agile team to test features and support deployment  
+- Wrote optimized SQL queries to improve data retrieval efficiency  
+- Debugged and tested modules to ensure performance and reliability  
+- Used Git for version control and team collaboration  
+
+### Event Manager  
+**Oyster Kode Club** | Mar 2023 – Jan 2025  
+- Managed technical coding events and hackathons including **Code 404**  
+- Coordinated with 20+ members to ensure smooth execution  
+- Increased student participation through effective planning  
+
+---
+
+## 📌 Projects
+
+### 🏥 CureBridge – Appointment Booking System
+- Doctor–patient portal with authentication, slot booking, and admin dashboard  
+- **Tech Stack:** Java, JSP, Servlets, JDBC, MySQL, MVC, HTML, CSS, Bootstrap, JavaScript  
+- Improved booking efficiency by **25%**  
+
+### 🌐 Portfolio Website
+- Responsive personal portfolio showcasing projects and skills  
+- **Tech Stack:** HTML, CSS, JavaScript, Bootstrap  
+- Focused on clean UI/UX and cross-browser compatibility  
+
+### 🎓 Student Management System
+- Role-based system (Admin, Teacher, Student) with secure login  
+- CRUD operations for student record management  
+- **Tech Stack:** Java, Spring Boot, Spring MVC, Hibernate, JSP, MySQL, Maven, Git  
+
+### 🔐 Security Jammer for Confidential Meetings
+- Ultrasonic jammer to reduce unauthorized audio recording  
+- CNN-based real-time activity detection  
+- **Technologies:** ESP32/Arduino, Ultrasonic Transducer, Python, CNN  
+
+---
+
+## 📜 Certifications
+- Oracle Cloud Infrastructure Foundations 2025 – Certified Associate  
+- Programming in Java – Infosys Springboard (2025)  
+
+---
+
+## 🏆 Achievements
+- Runner-up – Quantum 2K24 (Web Development Competition), RIT Islampur  
+- Runner-up – Debate Competition, RIT Islampur  
+- Active Member – CSE Student Association (2022–2025)  
+
+---
+
+## 🌍 Languages
+- English  
+- Hindi  
+- Marathi  
+
+---
+
+⭐ *Actively looking for Java Full Stack Developer / Software Developer (Fresher) opportunities*
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun_g635) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-ghadage-3ab033275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunghadage32@gmail.com) 
 
