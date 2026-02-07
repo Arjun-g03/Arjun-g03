@@ -1,9 +1,11 @@
-# 💫 Hi 👋, I'm Arjun Ghadage  
-### Java Full Stack Developer | B.Tech CSE Graduate | Fresher from India 🇮🇳
+<h1 align="center">💫 Hi 👋, I'm Arjun Ghadage</h1>
+<h3 align="center">Java Full Stack Developer | B.Tech CSE Graduate | Fresher from India 🇮🇳</h3>
 
-📍 Pune, India  
-📧 **Email:** arjunghadage32@gmail.com  
+<p align="center">
+📍 Pune, India • 
+📧 arjunghadage32@gmail.com • 
 💼 Actively seeking entry-level opportunities 🚀
+</p>
 
 ---
 
@@ -14,103 +16,85 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced Java
-- Spring Boot
-- JDBC & REST APIs
-- Microservices Basics
-- SQL Advanced Concepts
-- **Software Testing (Manual + Automation)**
-  - STLC
-  - Test Case Design
-  - Bug Life Cycle
-  - Smoke / Sanity / Regression Testing
-  - Selenium (Beginner)
-  - SQL Testing
+- Advanced Java  
+- Spring Boot  
+- JDBC & REST APIs  
+- Microservices Basics  
+- Advanced SQL Concepts  
+
+**Software Testing (Manual + Automation)**
+- STLC & Bug Life Cycle  
+- Test Case Design  
+- Smoke / Sanity / Regression Testing  
+- Selenium (Beginner)  
+- SQL Testing  
 
 ---
 
 ## 💬 Skilled In Real-World Development
-- Core Java & OOPs
-- MVC Architecture
-- JSP & Servlets Web Applications
-- HTML, CSS, Bootstrap, JavaScript
-- REST API Integration
-- MySQL Database Design & CRUD Operations
-- Debugging & Optimization
-- Application Deployment Basics
+- Core Java & OOPs  
+- MVC Architecture  
+- JSP & Servlets Web Applications  
+- HTML, CSS, Bootstrap, JavaScript  
+- REST API Integration  
+- MySQL Database Design & CRUD Operations  
+- Debugging & Optimization  
+- Application Deployment Basics  
 
 ---
 
 ## 🛠️ Skills & Tools
 
 ### 🔹 Programming Languages
-- Java
-- C
-- SQL
+Java • C • SQL
 
 ### 🔹 Frontend Development
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- Responsive Web Design
+HTML • CSS • JavaScript • Bootstrap • Responsive Web Design
 
 ### 🔹 Backend Development
-- Core Java
-- JSP & Servlets
-- Spring Framework
-- Spring Boot
-- REST APIs
-- JDBC
-- Hibernate
-- MVC Architecture
-- Full Stack Application Development
+Core Java • JSP & Servlets • Spring Framework • Spring Boot  
+REST APIs • JDBC • Hibernate • MVC Architecture
 
 ### 🔹 Database
-- MySQL (CRUD operations, joins, queries, schema design)
+MySQL (CRUD operations, joins, queries, schema design)
 
 ### 🔹 Testing
-- Manual Testing
-- STLC & SDLC
-- Test Case Writing
-- Defect Tracking
-- Smoke / Sanity / Regression Testing
-- Selenium (Beginner)
+Manual Testing • STLC & SDLC • Test Case Writing  
+Defect Tracking • Smoke / Sanity / Regression Testing  
+Selenium (Beginner)
 
 ### 🔹 Tools & Platforms
-- Git & GitHub
-- IntelliJ IDEA
-- Eclipse
-- VS Code
-- MySQL Workbench
+Git • GitHub • IntelliJ IDEA • Eclipse • VS Code • MySQL Workbench
 
 ### 🔹 Methodologies
-- Agile (Scrum)
-- Software Development Life Cycle
+Agile (Scrum) • Software Development Life Cycle
 
 ---
 
 ## 📫 Connect With Me
-📧 Email: arjunghadage32@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/arjun-ghadage-3ab033275/
+📧 **Email:** arjunghadage32@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/arjun-ghadage-3ab033275/
 
 ---
 
 ## 😄 Fun Fact
-I enjoy debugging and optimizing code to make applications more reliable 😄
+I enjoy debugging and optimizing code to make applications more reliable.
 
 ---
+
 ## 🎯 Open to Work
 
-🚀 I am actively seeking an entry-level opportunity as a  
-**Java Full Stack Developer / Software Developer / Software Tester (Fresher)**
+I am actively seeking an entry-level opportunity as a  
+**Java Full Stack Developer / Software Developer / Software Tester (Fresher)**.
 
-I am passionate about building real-world applications, learning modern technologies,  
-and contributing to a professional development team.
+I am eager to learn, contribute to real-world projects, and grow within a professional development team.
 
 ✅ Available for immediate joining  
-✅ Open to on-site / remote opportunities  
+✅ Open to on-site and remote opportunities  
 ✅ Ready to grow and deliver impact
+
+---
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arjun_g635) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arjun-ghadage-3ab033275) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunghadage32@gmail.com) 
