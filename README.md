@@ -11,38 +11,26 @@
 ---
 
 ## 🔭 Currently Working On
-- **SmartHire Portal – Intelligent Job Recruitment Platform**
+- **SmartHire Portal** – Intelligent Job Recruitment Platform  
 - Hospital Doctor Appointment System (Full Stack Java)
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Java  
-- Spring Boot  
-- JDBC & REST APIs  
-- Microservices Basics  
-- Advanced SQL Concepts  
-
-**Software Testing (Manual + Automation)**
-- STLC & Bug Life Cycle  
-- Test Case Design  
-- Smoke / Sanity / Regression Testing  
-- Selenium (Beginner)  
-- SQL Testing  
+- Advanced Java, Spring Boot, JDBC, REST APIs  
+- Microservices Basics, Advanced SQL  
+- **Software Testing:** STLC, Bug Life Cycle, Test Case Design  
+- Smoke, Sanity & Regression Testing  
+- Selenium (Beginner), SQL Testing
 
 ---
 
 ## 💬 Skilled In Real-World Development
-- Core Java & OOPs  
-- MVC Architecture  
-- JSP & Servlets Web Applications  
+- Core Java & OOPs • MVC Architecture  
+- JSP & Servlets • REST API Integration  
 - HTML, CSS, Bootstrap, JavaScript  
-- REST API Integration  
-- MySQL Database Design & CRUD Operations  
-- Debugging & Optimization  
-- Application Deployment Basics  
-
----
+- MySQL (Design, CRUD Operations)  
+- Debugging, Optimization & Deployment Basics
 
 ## 🛠️ Skills & Tools
 
